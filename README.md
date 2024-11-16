@@ -29,12 +29,10 @@ Make sure you have these tools installed:
 
 1. **Create a New React Application**:
 
-   Open your terminal and run:
+   + Open your terminal and run:
 
    ```bash
    npx create-react-app my-react-app
-
-   Replace my-react-app with your desired project name. This command installs create-react-app and sets up a complete React project in a few moments.
 
 2. **Navigate to Your Project Folder**:
 
