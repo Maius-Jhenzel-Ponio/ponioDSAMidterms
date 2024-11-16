@@ -53,7 +53,7 @@ This will start your app on (http://localhost:3000.) Open this URL in your brows
 ## 🎉 Trivia about React.js
 Here are some fun facts and interesting insights about React:
 
-**Originally Built for Facebook's News Feed**: React was created by Jordan Walke, a software engineer at Facebook, in 2011 to manage the complexity of real-time updates in the News Feed.
+**_Originally Built for Facebook's News Feed_**: React was created by Jordan Walke, a software engineer at Facebook, in 2011 to manage the complexity of real-time updates in the News Feed.
 
 Not a Framework: Unlike Angular or Vue, React is a library, not a framework. It focuses solely on rendering the view, giving developers flexibility in choosing other tools for routing, state management, etc.
 
