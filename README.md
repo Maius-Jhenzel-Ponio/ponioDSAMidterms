@@ -55,11 +55,11 @@ Here are some fun facts and interesting insights about React:
 
 **_Originally Built for Facebook's News Feed_**: React was created by Jordan Walke, a software engineer at Facebook, in 2011 to manage the complexity of real-time updates in the News Feed.
 
-Not a Framework: Unlike Angular or Vue, React is a library, not a framework. It focuses solely on rendering the view, giving developers flexibility in choosing other tools for routing, state management, etc.
+**_Not a Framework_**: Unlike Angular or Vue, React is a library, not a framework. It focuses solely on rendering the view, giving developers flexibility in choosing other tools for routing, state management, etc.
 
-Pioneered the Virtual DOM Concept: React’s introduction of the virtual DOM set a new standard, significantly improving rendering performance.
+**_Pioneered the Virtual DOM Concept_**: React’s introduction of the virtual DOM set a new standard, significantly improving rendering performance.
 
-Used by Top Companies Worldwide: React is used by organizations like Airbnb, Netflix, WhatsApp, and Instagram, making it one of the most widely adopted libraries for frontend development.
+**_Used by Top Companies Worldwide_**: React is used by organizations like Airbnb, Netflix, WhatsApp, and Instagram, making it one of the most widely adopted libraries for frontend development.
 
 ## 📚 Additional Resources
 For more details, visit the following:
